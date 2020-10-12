@@ -1,0 +1,38 @@
+baseURL: https://frederikbjorn.com
+languageCode: en-us
+title: Frederik Bjorn
+theme: hugo-PaperMod
+paginate: 5
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+menu:
+  main:
+    - name: Posts
+      url: /posts
+      weight: 1
+    - name: About
+      url: /about
+      weight: 2
+    - name: Contact
+      url: /contact
+      weight: 3
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+params:
+  homeInfoParams:
+    Title: "Hi there \U0001F44B"
+    Content: Welcome to my blog
+
+  defaultTheme: dark
+
+  socialIcons:
+    - name: github
+      url: https://github.com/FrederikBjorn
+    - name: linkedin
+      url: https://www.linkedin.com/in/frederik-bj%C3%B8rn-6339b5170
