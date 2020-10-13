@@ -1,6 +1,5 @@
 ---
 hideMeta: true
-summary: my music
 title: Music
 ---
 
