@@ -7,14 +7,14 @@ Post your music stuff here.
 
 <p align="center">
 {{< youtube l9YWiXg_MWk >}}
-	<h4>Cyano - Domi Nostrae - <em>2019</h4>
-<em>An EP with my band; Cyano. My role in this production was; drummer, vocalist, one of the composers and the mixer of the EP.<em>
+	<h4>Cyano - Domi Nostrae - </h4><em>2019
+<em>An EP with my band Cyano. My role in this production was; drummer, vocalist, one of the composers and the mixer of the EP.<em>
 
 </p>
 
 <p align="center">
 {{< youtube gkspg-88n-o >}}
-	<h4>An EP with my band; Cyano - <strong>2018</strong></h4>
+	<h4>An EP with my band; Cyano - <stron>2018</strong></h4>
 <em>My role in this production was; drummer and one of the composers.<em>
 
 </p>
