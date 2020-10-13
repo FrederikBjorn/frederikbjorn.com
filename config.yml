@@ -19,6 +19,9 @@ menu:
     - name: Contact
       url: /contact
       weight: 3
+    - name: Music
+      url: /music
+      weight: 4
 markup:
   goldmark:
     renderer:

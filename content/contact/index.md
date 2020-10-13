@@ -1,6 +1,6 @@
 ---
 hideMeta: true
-title: Music
+title: Contact
 ---
 
-Post your Music stuff here.
+Post your contact stuff here.
