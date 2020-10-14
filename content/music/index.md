@@ -13,7 +13,7 @@ An EP with my band Cyano. My role in this production was; drummer, vocalist, one
 
 <p align="center">
 {{< youtube gkspg-88n-o >}}
-	<h4>Cyano - Cyano EP<em>2018</h4>
+	<h4>Cyano - Cyano EP <em>2018</h4>
 An EP with my band Cyano. My role in this production was; drummer and one of the composers.<em>
 </p>
 
@@ -32,7 +32,7 @@ My third solo EP. My role in this production was; composer, instrumentalist and 
 <p align="center">
 {{< youtube Trf1yzNWPnU >}}
 	<h4> Frederik Bjørn - Pligter... <em>2016</h4>
-My secound solo EP. My role in this production was; composer, instrumentalist and mixer of the EP.<em>
+My second solo EP. My role in this production was; composer, instrumentalist and mixer of the EP.<em>
 </p>
 
 <p align="center">
