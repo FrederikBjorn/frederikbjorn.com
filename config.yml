@@ -16,9 +16,6 @@ menu:
     - name: About
       url: /about
       weight: 3
-    - name: Contact
-      url: /contact
-      weight: 4
     - name: Music
       url: /music
       weight: 2
@@ -29,8 +26,8 @@ markup:
 
 params:
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Title: "Hello"
+    Content: Welcome to your life
 
   defaultTheme: dark
 
@@ -39,3 +36,9 @@ params:
       url: https://github.com/FrederikBjorn
     - name: linkedin
       url: https://www.linkedin.com/in/frederik-bj%C3%B8rn-6339b5170
+    - name: soundcloud
+      url: https://soundcloud.com/frederikbjoern
+    - name: bandcamp
+      url: https://frederikbjorn.bandcamp.com/
+
+
