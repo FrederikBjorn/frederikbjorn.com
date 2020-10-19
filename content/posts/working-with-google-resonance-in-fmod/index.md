@@ -8,8 +8,7 @@ tags:
   - Google resonance
   - FMOD
 ---
-<html>
-<body>
+
 <h4>Working with Google resonance in FMOD</h4>
 
 <center>
@@ -18,8 +17,6 @@ tags:
 <br>
 
 </center>
-<img src="Document/GitHub/frederikbjorn.com/content/posts/working-with-google-resonance-in-fmod/fireplace-folder-structure.png" alt="fireplace-folder" align="right" width="350" height="35">
+<img src="fireplace-folder-structure.png" alt="fireplace-folder" align="right" width="40%">
 Fmod is the best blablabla
 
-<body>
-<html>

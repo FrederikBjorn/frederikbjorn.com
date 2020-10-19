@@ -15,7 +15,7 @@ tags:
 
 <br>
 
-<img align="right" width="35%" src="Documents/GitHub/frederikbjorn.com/content/posts/paa-graensen-til/Paa-graensen-til.jpg">
+<img align="right" width="35%" src="Paa-graensen-til.jpg">
 
 <em>A podcast about the christian brotherhood of the Moravian Church (ger. "Herrnhuter Brüdergemeine")based in the danish village of Christiansfeld.
 The Moravian Church has an interesting and very global history, this podcast focuses on the danish fraction which centres in and around Christiansfeld.
