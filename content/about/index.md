@@ -4,7 +4,7 @@ title: About
 ---
 <img align="right" width="35%" src="fb-yatzy.jpg">
 <br>
-Oi. My Name is Frederik Bjørn. I'm a sounddesigner, composer and drummer with and
+Hello. My Name is Frederik Bjørn. I'm a sounddesigner, composer and drummer with and
 interest for game development, making, mixing and recording music, and a love for everything odd and unapologetic.
 
 <br>
