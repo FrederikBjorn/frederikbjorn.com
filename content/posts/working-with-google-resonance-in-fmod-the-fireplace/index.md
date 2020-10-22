@@ -9,7 +9,7 @@ tags:
   - FMOD
 ---
 
-<h4>How to make a Fireplace using Google resonance</h4>
+<h3>How to make a Fireplace using Google resonance</h3>
 
 <center>
 {{< vimeo 469509261 >}}
@@ -17,6 +17,11 @@ tags:
 <br>
 
 </center>
+
+<em>Please be aware that using the different ambisonic tools by Google resonance has
+to route through the Resonance Audio Listener to work in unity. </em>
+<br>
+
 <img src="fireplace-folder-structure.png" alt="fireplace-folder" align="right" width="40%">
 <em>How i made the fireplace sound:</em>
 <br>
