@@ -26,8 +26,8 @@ markup:
 
 params:
   homeInfoParams:
-    Title: "Hello"
-    Content: Welcome to your life
+    Title: "frederikbjorn.com"
+    Content: Game Audio, music and different recipes for porridge.
 
   defaultTheme: dark
 
