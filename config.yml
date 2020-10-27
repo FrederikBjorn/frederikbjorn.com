@@ -28,17 +28,10 @@ markup:
 
 
 params:
-  profileMode:
+  homeInfoParams:
     enabled: true
     Title: "frederikbjorn.com"
     Content: Game Audio, music and different recipes for porridge.
-    buttons:
-            - name: About
-            url: "/about"
-            - name: Posts
-            url: "/posts"
-            - name: Music
-            url: "/music"
 
 
   socialIcons:
