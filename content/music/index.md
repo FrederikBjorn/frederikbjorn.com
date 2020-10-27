@@ -27,7 +27,7 @@ An EP with my band Cyano. Role; drummer and one of the composers.</em>
 <p align="center">
 {{< youtube POIL1cjCOgE >}}
 	<h4>væk - SPRING <em>[2019]</h4>
-A single with the lofi-pop icon, væk (August Official). Rule; master engineer.<em>
+A single with the lofi-pop icon, væk (August Official). Role; master engineer.<em>
 </p>
 
 <p align="center">

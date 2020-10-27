@@ -24,19 +24,30 @@ markup:
     renderer:
       unsafe: true
 
+  defaultTheme: light
+
+
 params:
-  homeInfoParams:
+  profileMode:
+    enabled: true
     Title: "frederikbjorn.com"
     Content: Game Audio, music and different recipes for porridge.
+    buttons:
+            - name: About
+            url: "/about"
+            - name: Posts
+            url: "/posts"
+            - name: Music
+            url: "/music"
 
-  defaultTheme: dark
 
   socialIcons:
+    - name: soundcloud
+      url: https://soundcloud.com/frederikbjoern
     - name: github
       url: https://github.com/FrederikBjorn
     - name: linkedin
       url: https://www.linkedin.com/in/frederik-bj%C3%B8rn-6339b5170
-    - name: soundcloud
-      url: https://soundcloud.com/frederikbjoern
     - name: bandcamp
       url: https://frederikbjorn.bandcamp.com/
+

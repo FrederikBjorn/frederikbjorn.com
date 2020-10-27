@@ -80,7 +80,7 @@ In FMOD I used the Google resonance tool, called Resonance Audio Soundfield.
 This makes sure the audio is send as a quadrophonic audio file to the Resonance Audio Listener which should be on the master channel.
 Please note that this bypasses the original mixer used in FMOD an routs all auido through the Resonance Audio Listener - Mono, Stereo og surrond format.
 
-<em>This project was a part of an exam in 3D audio at Sonic College<em/>
+<em>- This project was a part of an exam in 3D audio at Sonic College<em/>
 
 
 
