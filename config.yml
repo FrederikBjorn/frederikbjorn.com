@@ -24,14 +24,12 @@ markup:
     renderer:
       unsafe: true
 
-  defaultTheme: light
-
-
 params:
   homeInfoParams:
     enabled: true
     Title: "frederikbjorn.com"
-    Content: Game Audio, music and different recipes for porridge.
+    Content: Hi, I'm Frederik Bjørn. <br> This is a small website used for portfolie and a few toturials. <br> Underneath are the different toturial posts. Cheers.
+
 
 
   socialIcons:
