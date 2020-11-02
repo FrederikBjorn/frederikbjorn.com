@@ -17,10 +17,12 @@ tags:
 <img src="muclation.png" alt="muclation.png" width="80%">
 <br>
 </center>
+<a style="text-decoration:none;font-family:times new roman;font-size:12px;text-decoration:none;">  
 At my team in DADIU, we got the assignment to make a game in eight days. 
 This was a part of learning how to work as a team and get ready for working on a much bigger and hopefully better game.
 The game is a 3D arcade came where you can mutate in to three different characters and it is called, muCLAYtion.
 Her is a small playthrough of the game:
+</a>
 <br>
 <br>
 <center>
