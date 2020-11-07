@@ -10,8 +10,8 @@ minify:
 
 menu:
   main:
-    - name: Posts
-      url: /posts
+    - name: Guides
+      url: /guides
       weight: 1
     - name: About
       url: /about
@@ -27,8 +27,9 @@ markup:
 params:
   homeInfoParams:
     enabled: true
-    Title: "frederikbjorn.com"
-    Content: Hi, I'm Frederik Bjørn. <br> This is a small website used for my portfolio containing my music, sound design work and a few toturials. <br> Underneath are some of my work and some different toturial posts. Cheers.
+    Title: 
+    Content: <a style="text-decoration:none;font-family:courier new;font-size:14px;text-decoration:none;">  Hi, I'm Frederik Bjørn. <br> This is a small website used for my portfolio containing my music, sound design work and a few guides to game audio. <br><br> <a href="https://frederikbjorn.com/guides/"><em><strong>Please check out my Guides</strong></em></a>
+
 
   socialIcons:
     - name: soundcloud
