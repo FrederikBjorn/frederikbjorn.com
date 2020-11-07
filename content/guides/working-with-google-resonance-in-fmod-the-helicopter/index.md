@@ -1,7 +1,7 @@
 ---
 description: The first blog post
-summary: An explanation of how i made a helicopter using Google Resonance in FMOD
-title: Working with google resonance in FMOD - The Helicopter
+summary: An explanation of important parameters and general use of Google Resonance in FMOD. Main focus; the helicopter.
+title:
 date: 2020-10-22
 tags:
   - blog

@@ -1,7 +1,7 @@
 ---
 description: The first blog post
-summary: The Podcast - På Grænsen Til
-title: På Grænsen Til
+summary: På grænsen til, a danish podcast about the moravian broterhood of Christiansfeld
+title: 
 date: 2020-10-15
 tags:
   - blog

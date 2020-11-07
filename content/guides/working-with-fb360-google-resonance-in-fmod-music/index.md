@@ -1,7 +1,7 @@
 ---
-description: The first blog post
-summary: An explanation of important parameters and general use of the FB360 tool
-title: Working with FB360 & Google resonance in FMOD - Music
+description:
+summary: An explanation of important parameters and general use of the FB360 & Google resonance in FMOD. Main focus; the music
+title: 
 date: 2020-10-21
 tags:
   - blog

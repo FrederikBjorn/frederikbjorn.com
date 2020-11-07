@@ -1,7 +1,7 @@
 ---
 description: 
-summary: A summary of the making of the DADIU game; muCLAYtion 2.1.
-title: Making a game in eight days
+summary: Making a game in eight days. A summary of the making of the DADIU game; muCLAYtion 2.1.
+title: 
 date: 2020-10-29
 tags:
   - blog

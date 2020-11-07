@@ -1,7 +1,7 @@
 ---
-description: The first blog post
-summary: An explanation of important parameters and general use of google resonance in FMOD. 
-title: Working with Google resonance in FMOD - The Fireplace
+description:
+summary: An explanation of important parameters and general use of Google Resonance in FMOD. Main focus in the fireplace.
+title: 
 date: 2020-10-18
 tags:
   - blog
