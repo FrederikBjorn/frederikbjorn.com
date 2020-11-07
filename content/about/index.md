@@ -4,19 +4,24 @@ title: About
 ---
 <!--<img align="right" width="35%" src="fb-yatzy.jpg">-->
 
-<img align="right" width="35%" src="about-photo.png">
+<img align="right" width="35%" src="about-photo.png" alt="about-photo">
 
-<br>
+<a style="text-decoration:none;font-family:courier new;font-size:14px;text-decoration:none;">
+
 Hello. My name is Frederik Bjørn. I'm a sound designer, composer and drummer with an
 interest for game development and creating, mixing and recording music.
 
-<h4><em> Contact </em></h4>
-Email: fbjoern18@gmail.com <br>
+
+<h3><em> Contact </em></h3>
+
+Email: fbjoern18(at)gmail.com <br>
 Tlf: +45 42 41 59 46 <br>
 Carrier pigeon: yes
 
+
 <br>
-<h4><em> Education </em></h4>
+<h3><em> Education </em></h3>
+
 Sound designer at the National Academy of Digital Interactive Entertainemt
 (DADIU, a part of The National Film School of Denmark), at AAU in Aalborg.
 <br>
@@ -33,7 +38,8 @@ Christianshavns Gymnasium with majors in Music, Engish and Media Studies.
 <em>From 2011 to 2014</em>
 <br>
 
-<h4><em> Programs I use for productions </em></h4>
+
+<h3><em> Programs I use for productions </em></h3>
 
 <br>
 <img align="left" width="17%" src="fmod-logo.png" style="margin:43px">
@@ -63,6 +69,9 @@ Christianshavns Gymnasium with majors in Music, Engish and Media Studies.
 
 
 <em>frederikbjorn.com - 2020</em>
+
+
+</a>
 
 
 

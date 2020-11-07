@@ -11,9 +11,12 @@ tags:
 
 ---
 
+<a style="text-decoration:none;font-family:courier new;font-size:14px;text-decoration:none;"> 
+
 <h3> How to make a Helicopter using Google resonance in FMOD, working with ambisonics and occlusion </h3>
 
 <center>
+
 {{< vimeo 469509261 >}}
 
 <br>
@@ -25,6 +28,7 @@ to route through the Resonance Audio Listener to work in unity.</em>
 
 
 <img src="Helicopter_folder_structure.png" alt="Helicopter_folder_structure.png" align="right" width="40%">
+
 <em>How i made the helicopter sound:</em>
 <br>
 
@@ -49,9 +53,13 @@ In this approach there are two key things to keep in mind
 Or is it a sound occurring because the soundsource is affecting other physical objects. </em>
 <br>(b) <em>How does the sound reach you? Is it occluded on the way? Is it reflected onto a surface like a big building? </em>
 <br>
+
 <h4><em>Occlusion</em></h4>
+
 <img src="Resonance_Audio_Source_Helicopter_Engine.png" alt="Resonance_Audio_Source_Helicopter_Engine.png" width="100%">
+
 <br>
+
 In the Google Resonance Audio Source we have a knob called; occlusion. This refers to how muffled the sound is,
 it can ether occur because there is something inbetween the soundsource and the listener, or because the soundsource is far away from the listener.
 It is achived by a complex filtering of the sound which correlates to the real world physics of how soundwaves travel through the air.
@@ -63,17 +71,21 @@ This was, together with the occlusion filtering, a way of futher muffleing out t
 It is audable, although very subtle, but listen to the siren when the helicopter is behind one of the boulders (1:30).
 
 <img src="Fmod_studio_event_emitter_oclussion.png" alt="Fmod_studio_event_emitter_oclussion.png" align="right" width="50%">
+
 <br>
 <br>
+
 In this explenation i won't cover how to actually script the specifics in C# but I higly recommend checking out Alessandro Famà toturial on the subject***.
 Nonetheless as you can see i have a text box where i can enter the name of my parameter as a string and a slider to easily control the
 intenity of the oclussion from unity.
-<h4><em>Triggering the ambisonics in Unity
-</em></h4>
+
+<h4><em>Triggering the ambisonics in Unity</em></h4>
+
 So working with ambisonic sounds requires a DAW that can handle different surround formats (like Reaper or Pro Tools HD) and
-<br>a
-spatialiser program like FB360***.
+a spatialiser program like FB360***.
+
 <br><br>
+
 <img src="Resonance_Audio_Soundfield.png" alt="Resonance_Audio_Soundfield.png" align="right" width="35%">
 
 In FMOD I used the Google resonance tool, called Resonance Audio Soundfield.
@@ -82,27 +94,21 @@ Please note that this bypasses the original mixer used in FMOD an routs all auid
 
 <em>- This project was a part of an exam in 3D audio at Sonic College<em/>
 
-
-
-
-
-
-
 <br>
-<br>
-<br>
-<em>* Made with the tool, FB360, see post about creating music with FB 360 <a href="https://frederikbjorn.com/posts/working-with-google-resonance-in-fmod-the-music/">
-<br>Click here for a simple FB360 guide. </a>
-<br>
-<br>** Made with a program called, Sound Particles made by a company under the same name.
-<br>
-<br>*** A guide to occlusion scripting by Alessandro Famà <a href="https://alessandrofama.com/tutorials/fmod-unity/occlusion/">
-<br>Click here for the occlusion guide. </a>
-</em>
-<!--
-Important points:
 
-Triggering the ambosonic audio in unity
+<a href="https://frederikbjorn.com/posts/working-with-google-resonance-in-fmod-the-music/">
+<em><h6><strong>* Made with the tool, FB360, see post about creating music with FB 360. Click here for redirection to the FB360 guide.</strong></h6></em>
+</a>
+<em><h6><strong>** Made with a program called, Sound Particles made by a company under the same name.</strong></h6></em >
+<a href="https://alessandrofama.com/tutorials/fmod-unity/occlusion/">
+<em><h6><strong>*** A guide to occlusion scripting by Alessandro Famà. Click here for redirection to the occlusion guide.</strong></h6></em>
+</a>
+<br>
 
--->
+<a style="text-decoration:none;font-family:courier new;font-size:14px;text-decoration:none;">
+
+<em>frederikbjorn.com - 2020</em>
+<br>
+
+</a>
 

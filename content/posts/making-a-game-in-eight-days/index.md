@@ -1,5 +1,5 @@
 ---
-description: The first blog post
+description: 
 summary: A summary of the making of the DADIU game; muCLAYtion 2.1.
 title: Making a game in eight days
 date: 2020-10-29
@@ -10,21 +10,20 @@ tags:
   - Game audio
 ---
 
-
-<h3>Making a game in eight days</h3>
+<a style="text-decoration:none;font-family:courier new;font-size:14px;text-decoration:none;">
+<em><h3>Making a game in eight days</h3></em>
 <center>
 <br>
 <img src="muclation.png" alt="muclation.png" width="80%">
 <br>
 </center>
-<!-- <a style="text-decoration:none;font-family:times new roman;font-size:12px;text-decoration:none;">  -->
+
 At my team in DADIU, we got the assignment to make a game in eight days. 
 This was a part of learning how to work as a team and get ready for working on a much bigger and hopefully better game.
 The game is a 3D arcade came where you can mutate in to three different characters and it is called, muCLAYtion.
+<br>
 Her is a small playthrough of the game:
-</a>
-<br>
-<br>
+
 <center>
 {{< vimeo 473099830 >}}
 
@@ -51,19 +50,24 @@ These were all made to sound very cartoon-ish and playful. One of the was we
 achieved was to use very exaggerated sounds and add a lot of synthesis layering made with a
 juno-106 emulation from TAL.
 <br>
+
 <h4> <em> Music</em> </h4>
+
 The thing we used the most time making was the music. Since this is an arcade game,
 music was really needed to drive the game forward. The way we chose to make this happen was by having 
-10 different level music systems.
 Please listen to some of the music. In the link you can find music to level 1 through 10,
 the main menu music and the tutorial music.
 <br> Please take note of the progression of the level music.
 <br><br>
 
+</a>
+
 <center>
 <iframe width="80%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/919134622%3Fsecret_token%3Ds-gn8gZqW3ycE&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div alight="right" style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/frederikbjoern" title="Frederik Bjørn" target="_blank" style="color: #cccccc; text-decoration: none;">Frederik Bjørn</a> · <a href="https://soundcloud.com/frederikbjoern/muclaytion-21-music-for-frederikbjorncom/s-gn8gZqW3ycE" title="MuCLAYtion 2.1 Music For Frederikbjorn.com" target="_blank" style="color: #cccccc; text-decoration: none;">MuCLAYtion 2.1 Music For Frederikbjorn.com</a></div>
 </center>
 <br>
+<a style="text-decoration:none;font-family:courier new;font-size:14px;text-decoration:none;">
+
 Creating a 10 level music system for a game made in eight days is certainly a big feat. I had all the music going in loops
 in the differet levels, with transitions between them. 
 One thing to keep in mind when making this arcade-style of music is that a player can often stay at the same levels for quite
@@ -85,3 +89,9 @@ but which slight changes in rythm and phrasing.
 <br>
 <br>
 <em>- This project was a part of a semester at National academy of digital interactive entertainment (DADIU)<em/>
+<br>
+<br>
+<em>frederikbjorn.com - 2020</em>
+<br>
+
+</a>

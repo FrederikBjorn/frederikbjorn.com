@@ -9,6 +9,8 @@ tags:
   - FMOD
 ---
 
+<a style="text-decoration:none;font-family:courier new;font-size:14px;text-decoration:none;">
+
 <h3>How to make a Fireplace using Google resonance</h3>
 
 <center>
@@ -23,6 +25,7 @@ to route through the Resonance Audio Listener to work in unity. </em>
 <br>
 
 <img src="fireplace-folder-structure.png" alt="fireplace-folder" align="right" width="40%">
+
 <em>How I made the fireplace sound:</em>
 <br>
 So the fireplace is made up of four different events. Three of the events are all mono,
@@ -41,7 +44,9 @@ The two other events, <em>FirePlace_Distance</em> & <em>FirePlace_Close</em> are
 example but with different samples (recorded accordingly to the distance in the game), different min & max distance values and different spread.
 
 <br>
+
 <img src="Resonance_Audio_Soundfield.png" alt="Resonance_Audio_Soundfield.png" align="right" width="35%">
+
 The last sound which is the quadrophonic ambisonic sound is made using another of the Google resonance tools; <br><em> Resonance Audio Soundfield </em>
 <br>
 This event is made up of a single perfect loop recorded with a Senheiser Ambeo VR Mic.
@@ -56,5 +61,11 @@ Then I have an Audio Parameter Fader script which allows me to fade in the sound
 <br>
 <br>
 <em>- This project was a part of an exam in 3D audio at Sonic College<em/>
+<br>
+<br>
+<em>frederikbjorn.com - 2020</em>
+<br>
+
+</a>
 
 
