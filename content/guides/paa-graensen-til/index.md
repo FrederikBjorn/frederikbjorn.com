@@ -1,6 +1,6 @@
 ---
 description: The first blog post
-summary: På grænsen til, a danish podcast about the moravian broterhood of Christiansfeld
+summary: På grænsen til, a danish podcast about the moravian brotherhood of Christiansfeld
 title: 
 date: 2020-10-15
 tags:
