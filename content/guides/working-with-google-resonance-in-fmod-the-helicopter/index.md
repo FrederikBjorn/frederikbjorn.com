@@ -4,10 +4,11 @@ summary: An explanation of important parameters and general use of Google Resona
 title:
 date: 2020-10-22
 tags:
-  - blog
   - Google resonance
   - FMOD
   - Helicopter
+  - Sound design
+  - Game Audio
 
 ---
 
