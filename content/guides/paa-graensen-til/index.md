@@ -4,7 +4,6 @@ summary: På grænsen til, a danish podcast about the moravian brotherhood of Ch
 title: 
 date: 2020-10-15
 tags:
-  - blog
   - podcast
   - Christainsfeld
   - Genforeningen 2020
@@ -20,8 +19,6 @@ tags:
 <a style="text-decoration:none;font-family:courier new;font-size:14px;text-decoration:none;">
 
 <br>
-
-<!--<img align="right" width="50%" src="Paa-graensen-til.jpg">-->
 
 A podcast about the christian brotherhood of the Moravian Church (ger. "Herrnhuter Brüdergemeine")based in the danish village of Christiansfeld.
 The Moravian Church has an interesting and very global history, this podcast focuses on the danish fraction which centres in and around Christiansfeld.

@@ -4,7 +4,6 @@ summary: An explanation of important parameters and general use of the FB360 & G
 title: 
 date: 2020-10-21
 tags:
-  - blog
   - Google resonance
   - FMOD
   - FB 360
@@ -13,6 +12,19 @@ tags:
 <a style="text-decoration:none;font-family:courier new;font-size:14px;text-decoration:none;">
 
 <h3>How to make a ambisonic music using FMOD, Google resonance and FB360</h3>
+
+This is a part of a three piece series on Google Resonance and the use of ambisonic audio in games.
+Please check out the other two parts here:
+- <a href="https://frederikbjorn.com/guides/working-with-google-resonance-in-fmod-the-helicopter/">
+<em><h6><strong>How to make a Helicopter using Google resonance in FMOD, working with ambisonics and occlusion</strong></h6></em>
+</a>
+
+<br>
+
+- <a href="https://frederikbjorn.com/guides/working-with-google-resonance-in-fmod-the-fireplace/">
+<em><h6><strong>How to make a Fireplace using Google resonance and ambisonics</strong></h6></em>
+</a>
+
 
 </a>
 

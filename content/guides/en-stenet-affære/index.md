@@ -1,6 +1,6 @@
 ---
 description: Game Audio
-summary: En stenet affære, a solo game I made about stones, friendships and an evil german cousin.
+summary: En stenet affære; a solo game I made about stones, friendships and an evil german cousin.
 title: 
 date: 2020-11-07
 tags:

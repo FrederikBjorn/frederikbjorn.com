@@ -1,6 +1,6 @@
 ---
 description: 
-summary:MuCLAYtion; a summary of making a game in eight days at DADIU.
+summary: MuCLAYtion; a summary of making a game in eight days at DADIU.
 title: 
 date: 2020-10-29
 tags:

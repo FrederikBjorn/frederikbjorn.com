@@ -1,17 +1,18 @@
 ---
 description:
-summary: An explanation of important parameters and general use of Google Resonance in FMOD. Main focus in the fireplace.
+summary: An explanation of important parameters and general use of Google Resonance in FMOD. Main focus; the fireplace.
 title: 
 date: 2020-10-18
 tags:
-  - blog
   - Google resonance
   - FMOD
+  - Sound design
+  - Game Audio
 ---
 
 <a style="text-decoration:none;font-family:courier new;font-size:14px;text-decoration:none;">
 
-<h3>How to make a Fireplace using Google resonance</h3>
+<h3>How to make a Fireplace using Google resonance and ambisonics</h3>
 
 <center>
 {{< vimeo 469509261 >}}
@@ -32,7 +33,13 @@ So the fireplace is made up of four different events. Three of the events are al
 comprised of different length loops, which are recordings of a fireplace with different distances.
 The fourth loop is an ambisonic sound, which we will come back to.
 First; the three mono events which all utilise the Google resonance tool, <em> Resonance Audio Source</em>,
-basically Google resonance was of fitting a mono sound source in a 3D world. <br><br><img src="Resonance_Audio_Source_fireplace_very_close.png" alt="Resonance_Audio_Source_fireplace_very_close.png" align="center" width=100%"><br>
+basically Google resonance was of fitting a mono sound source in a 3D world.
+<br>
+<br>
+
+<img src="Resonance_Audio_Source_fireplace_very_close.png">
+
+<br>
 
 Here we see the Resonance Audio Source for the FirePlace_VeryClose event.
 A quick walk through of this tools is that we use to determine from how far/close we can here the sound, and how the attenuation and spread affects the sound.
