@@ -34,6 +34,11 @@ Sono- og mediekommunikation at Sonic College in Haderslev
 <em>From 2018 to 2021</em>
 <br>
 <br>
+Testrup Højskole, a folk-high-school where i studied musical composition.
+<br>
+<em>Spring 2018</em>
+<br>
+<br>
 Christianshavns Gymnasium with majors in Music, Engish and Media Studies. 
 <br>
 <em>From 2011 to 2014</em>
