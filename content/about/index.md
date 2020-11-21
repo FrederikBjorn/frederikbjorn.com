@@ -20,7 +20,6 @@ Tlf: +45 42 41 59 46 <br>
 Carrier pigeon: yes
 
 
-<br>
 <h3><em> Education </em></h3>
 
 Sound designer at the National Academy of Digital Interactive Entertainemt
