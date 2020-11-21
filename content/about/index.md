@@ -1,14 +1,15 @@
 ---
 hideMeta: true
-title: About
+title: 
 ---
-<!--<img align="right" width="35%" src="fb-yatzy.jpg">-->
+<a style="text-decoration:none;font-family:courier new;font-size:14px;text-decoration:none;">
+
+<h1> About </h1>
 
 <img align="right" width="35%" src="about-photo.png" alt="about-photo">
 
-<a style="text-decoration:none;font-family:courier new;font-size:14px;text-decoration:none;">
 
-Hello. My name is Frederik Bjørn. I'm a sound designer, composer and drummer with an
+Hello. My name is Frederik Bjørn. I am a sound designer, composer and drummer with an
 interest for game development and creating, mixing and recording music.
 
 

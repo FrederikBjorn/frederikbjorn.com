@@ -12,13 +12,17 @@ menu:
   main:
     - name: Guides
       url: /guides
-      weight: 1
+      weight: 2
     - name: About
       url: /about
-      weight: 3
+      weight: 4
     - name: Music
       url: /music
-      weight: 2
+      weight: 3
+    - name: Portfolio
+      url: /portfolio
+      weight: 1
+
 markup:
   goldmark:
     renderer:

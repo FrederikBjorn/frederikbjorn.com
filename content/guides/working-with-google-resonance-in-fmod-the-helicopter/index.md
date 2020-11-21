@@ -97,7 +97,7 @@ Please note that this bypasses the original mixer used in FMOD an routs all auid
 
 <br>
 
-<a href="https://frederikbjorn.com/posts/working-with-google-resonance-in-fmod-the-music/">
+<a href="https://frederikbjorn.com/guides/working-with-google-resonance-in-fmod-the-music/">
 <em><h6><strong>* Made with the tool, FB360, see post about creating music with FB 360. Click here for redirection to the FB360 guide.</strong></h6></em>
 </a>
 <em><h6><strong>** Made with a program called, Sound Particles made by a company under the same name.</strong></h6></em >
