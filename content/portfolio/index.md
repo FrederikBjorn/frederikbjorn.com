@@ -8,8 +8,8 @@ title:
 <h1> Portfolio </h1>
 
 Some different examples of prior work ranging from game audio to music to podcasts.
-Some of these are school projects, either from Sonic College or The National Academy of Digital Interactive Entertainment (DADIU),
-and other types of personal and self organized projects. 
+Some of these are school projects are either from Sonic College or The National Academy of Digital Interactive Entertainment (DADIU),
+and other types are personal or self organized projects. 
 
 <br>
 
