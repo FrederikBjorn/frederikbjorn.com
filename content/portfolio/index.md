@@ -15,6 +15,65 @@ and other types are personal or self organized projects.
 
 ____________________________________________________________________________________
 
+<h3>Gneiss : A Misshapen Journey </h3>
+
+
+A game about a rock-person who becomes a shape shifting ball of meat!
+Made togeather with my 2020 DADIU team; ARISE.
+
+The game is free and is downloadeble from my itch.io page:
+
+<a href="https://frederikbjorn.itch.io/">
+<em><h6><strong>https://frederikbjorn.itch.io/</strong></h6></em>
+</a>
+
+{{< youtube P-agk3Bt0Dk >}}
+
+<br>
+<br>
+
+<a style="text-decoration:none;font-family:courier new;font-size:14px;text-decoration:none;"> 
+
+____________________________________________________________________________________
+
+
+
+<h3>På Grænsen Til</h3>
+
+A podcast made as an exam in sonic communications and project management, about the christian
+brotherhood of the Moravian Church (ger. "Herrnhuter Brüdergemeine")
+based in the danish village of Christiansfeld.
+The Moravian Church has an interesting and very global history,
+this podcast focuses on the danish fraction which centers in and around Christiansfeld.
+<br>
+
+The podcast was a collaboration with the 100 year anniversary of the reunification of Denmark.
+For more info, please visit their website:
+
+<a href="https://www.genforeningen2020.dk/">
+<em><h6><strong>https://www.genforeningen2020.dk/</strong></h6></em>
+</a>
+
+
+<a style="text-decoration:none;font-family:courier new;font-size:14px;text-decoration:none;"> 
+
+<em>The podcast is in Danish.</em>
+
+
+<center>
+
+<iframe width="100%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/912628837%3Fsecret_token%3Ds-HRcQYK6JKbe&color=%23e26735&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/frederikbjoern" title="Frederik Bjørn" target="_blank" style="color: #cccccc; text-decoration: none;">Frederik Bjørn</a> · <a href="https://soundcloud.com/frederikbjoern/pa-graensen-til/s-HRcQYK6JKbe" title="På Grænsen Til" target="_blank" style="color: #cccccc; text-decoration: none;">På Grænsen Til</a></div>
+
+</center>
+
+<br>
+<br>
+
+<a style="text-decoration:none;font-family:courier new;font-size:14px;text-decoration:none;"> 
+
+
+____________________________________________________________________________________
+
 <h3>Working with Google resonance in Fmod</h3>
 
 A small walking simulator exploring different possibilities with the ambisonic format using Google resonance.
@@ -47,9 +106,9 @@ ________________________________________________________________________________
 
 <h3>muCLAYtion</h3>
 
-I game we made at my DADIU team in eight days.
+I game we made at my DADIU team, ARISE, in eight days.
 A simple joyfull arcade game, where you have the ablilty to change into three different characters on your quest to collecting
-as many skies as you can before the slugs or poliece men catches you!
+as many skies as you can before the slugs or the police men catches you!
 
 For a more in-depth explenation please visit some of the guides I have made for the different tools I used in this project;
 
@@ -102,42 +161,11 @@ For a more in-depth description, please visit my guide to the game;
 
 _____________________________________________________________________________________
 
-<h3>På Grænsen Til</h3>
-
-A podcast made as an exam in sonic communications and project management, about the christian
-brotherhood of the Moravian Church (ger. "Herrnhuter Brüdergemeine")
-based in the danish village of Christiansfeld.
-The Moravian Church has an interesting and very global history,
-this podcast focuses on the danish fraction which centers in and around Christiansfeld.
-<br>
-
-The podcast was a collaboration with the 100 year anniversary of the reunification of Denmark.
-For more info, please visit their website:
-
-<a href="https://www.genforeningen2020.dk/">
-<em><h6><strong>https://www.genforeningen2020.dk/</strong></h6></em>
-</a>
-
-
-<a style="text-decoration:none;font-family:courier new;font-size:14px;text-decoration:none;"> 
-
-<em>The podcast is in Danish.</em>
-
-
-<center>
-
-<iframe width="100%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/912628837%3Fsecret_token%3Ds-HRcQYK6JKbe&color=%23e26735&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/frederikbjoern" title="Frederik Bjørn" target="_blank" style="color: #cccccc; text-decoration: none;">Frederik Bjørn</a> · <a href="https://soundcloud.com/frederikbjoern/pa-graensen-til/s-HRcQYK6JKbe" title="På Grænsen Til" target="_blank" style="color: #cccccc; text-decoration: none;">På Grænsen Til</a></div>
-
-</center>
-
-<br>
-<br>
-
-<a style="text-decoration:none;font-family:courier new;font-size:14px;text-decoration:none;"> 
-
 <em>frederikbjorn.com - 2020</em>
 
 <br>
 
 </a>
+
+
 
