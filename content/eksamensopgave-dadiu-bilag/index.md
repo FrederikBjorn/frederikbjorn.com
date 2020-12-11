@@ -252,11 +252,7 @@ UI musikken
 
 Minigame I musiksystem
 
-<center>
-
 <img src="MinigameI-music-system.png" alt="MinigameI-music-system.png">
-
-</center>
 
 <br>
 <br>
@@ -286,9 +282,59 @@ Din brower understøtter ikke dette video tag, venlist skift browser.
 <br>
 <br>
 
-<h3> Bilag  </h3>
+<h3> Bilag 7 </h3>
 
 <embed src="Minigame1-time-schedule.pdf" width="800px" height="2100px" />
+
+<br>
+<br>
+
+<h3> Bilag 8 </h3>
+
+
+<img src="codecks-minigame-I.png">
+
+<br>
+<br>
+
+<h3> Bilag 9 </h3>
+
+<img src="three-mutation-states-muclation-2.png">
+
+<br>
+<br>
+
+<h3> Bilag 10 </h3>
+
+<video width="680" height="500" controls>
+  <source src="muCLAYtion-2-video.mp4" type="video/mp4">
+Din brower understøtter ikke dette video tag, venlist skift browser.
+
+</video>
+
+<h3> Bilag 11 </h3>
+
+In-game musik fra level 1 til 10, main-menu musik og tutorial musik:
+
+<center>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/919134622%3Fsecret_token%3Ds-gn8gZqW3ycE&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div alight="right" style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/frederikbjoern" title="Frederik Bjørn" target="_blank" style="color: #cccccc; text-decoration: none;">Frederik Bjørn</a> · <a href="https://soundcloud.com/frederikbjoern/muclaytion-21-music-for-frederikbjorncom/s-gn8gZqW3ycE" title="MuCLAYtion 2.1 Music For Frederikbjorn.com" target="_blank" style="color: #cccccc; text-decoration: none;">MuCLAYtion 2.1 Music For Frederikbjorn.com</a></div>
+
+<br>
+
+</center>
+
+<a style="text-decoration:none;font-family:times new roman;font-size:14px;text-decoration:none;">
+
+Oversigt over opsætningen i Wwise:
+
+<center>
+
+<img src="mucalytion-2-music-levels-wwise.png" width="60%">
+
+</center>
+
+<br>
+<br>
 
 <br>
 <br>
