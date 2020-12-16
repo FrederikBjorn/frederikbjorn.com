@@ -419,6 +419,55 @@ Kig på url-koden, de første tre tal er nummeret (tæller op fra 001) og dereft
 
 <img src="trello-og-git-url.png">
 
+<br>
+<br>
+
+<h3> Bilag 20 </h3>
+
+Vores <em> ImpactDetector</em> og <em>VelocityDetector</em>
+
+<img src="impact-detector-1.png">
+
+<img src="impact-detector-2.png">
+
+<img src="velocity-trigger-inspector.png">
+
+<br>
+<br>
+
+<h3> Bilag 21 </h3>
+
+Vores audio specifikke sripts.
+
+<img src="audio-scripts.png">
+
+<br>
+<br>
+
+<h3> Bilag 22 </h3>
+
+Auido specifikke prefabs.
+
+<img src="audio-prefabs.png">
+
+<br>
+<br>
+
+<h3> Bilag 23 </h3> 
+
+Et eksempel på vores <em>AudioHandlerPrefab</em>
+
+<img src="audio-handler-prefab.png">
+
+<br>
+<br>
+
+<h3> Bilag 24 </h3>
+
+Vores audio rulebook
+
+<embed src="audio-rulebook.pdf" width="800px" height="3180px" />
+
 
 
 
