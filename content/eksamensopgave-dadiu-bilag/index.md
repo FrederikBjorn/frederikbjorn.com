@@ -284,7 +284,7 @@ Din brower understøtter ikke dette video tag, venlist skift browser.
 
 <h3> Bilag 7 </h3>
 
-<embed src="Minigame1-time-schedule.pdf" width="800px" height="2100px" />
+<embed src="Minigame1-time-schedule.pdf" width="800px" height="900px" />
 
 <br>
 <br>
@@ -335,6 +335,92 @@ Oversigt over opsætningen i Wwise:
 
 <br>
 <br>
+
+<h3> Bilag 12 </h3>
+
+<embed src="GG One-pager.pdf" width="800px" height="1190px" />
+
+<br>
+<br>
+
+<h3> Bilag 13 </h3>
+
+Pre-pre produktions musik idé.
+
+<audio controls>
+<source src ="idea GG 13-10.mp3" type="audio/mpeg">
+</audio>
+
+<h3> Bilag 14 </h3>
+
+Emotionel progression - Audio-visuel oversigt.
+
+<img src="AV-parameters.png">
+
+<br>
+<br>
+
+<h3> Bilag 15 </h3>
+
+Core-mechanic, fra alpha sptrint stadie.
+
+<video width="680" height="300" controls>
+  <source src="core-mechanic-firest-stage.mp4" type="video/mp4">
+Din brower understøtter ikke dette video tag, venlist skift browser.
+
+</video>
+
+<br>
+<br>
+
+<h3> Bilag 16 </h3>
+
+Produktionsplan
+
+<embed src="DADIU_ProductionPlan.pdf" width="800px" height="1180px" />
+
+<br>
+
+Timeline og milestones fra vores produktion
+
+<embed src="timelineV8.pdf" width="800px" height="600px" />
+ 
+<embed src="milestonesv6.pdf" width="800px" height="1180px" />
+
+<br>
+<br>
+
+
+
+<h3> Bilag 17 </h3>
+
+<em> Asset-brick </em>system
+
+<img src="asset-brick-system.png">
+
+<br>
+<br>
+
+<h3> Bilag 18 </h3>
+
+Hvem gør hvad, RACI system (Responsible, Accountable, Consulted & Informed)
+
+<embed src="whodoeswhat.pdf" width="800px" height="1180px" />
+
+
+<h3> Bilag 19 </h3>
+
+Trello eksempel.
+Kig på url-koden, de første tre tal er nummeret (tæller op fra 001) og derefter er beskrivelsen.
+
+<img src="trello-url.png">
+
+<br>
+
+<img src="trello-og-git-url.png">
+
+
+
 
 <br>
 <br>
