@@ -4,7 +4,7 @@ title:
 ---
 <a style="text-decoration:none;font-family:times new roman;font-size:14px;text-decoration:none;">
 
-For at hoste mine video bilag til <em>Eksamensopgaven DADIU</em> har jeg her oploaded mine bilag til min hjemmeside.
+For at hoste mine video bilag til <em>Eksamensopgaven DADIU</em> har jeg her oploadet mine bilag til min hjemmeside.
 <br>
 Disse bilag er kun til supplement til <em>Eksamensopgaven DADIU</em>, del derfor venlist ikke disse videoer.
 
@@ -338,12 +338,22 @@ Oversigt over opsætningen i Wwise:
 
 <h3> Bilag 12 </h3>
 
+<em>Gneiss : A Misshapen Journey</em> promo-video
+
+<video width="680" height="400" controls>
+  <source src="Gneiss-presentation-video.mp4" type="video/mp4">
+Din brower understøtter ikke dette video tag, venlist skift browser.
+
+</video>
+
+<h3> Bilag 13 </h3>
+
 <embed src="GG One-pager.pdf" width="800px" height="1190px" />
 
 <br>
 <br>
 
-<h3> Bilag 13 </h3>
+<h3> Bilag 14 </h3>
 
 Pre-pre produktions musik idé.
 
@@ -351,7 +361,7 @@ Pre-pre produktions musik idé.
 <source src ="idea GG 13-10.mp3" type="audio/mpeg">
 </audio>
 
-<h3> Bilag 14 </h3>
+<h3> Bilag 15 </h3>
 
 Emotionel progression - Audio-visuel oversigt.
 
@@ -360,7 +370,7 @@ Emotionel progression - Audio-visuel oversigt.
 <br>
 <br>
 
-<h3> Bilag 15 </h3>
+<h3> Bilag 16 </h3>
 
 Core-mechanic, fra alpha sptrint stadie.
 
@@ -373,7 +383,16 @@ Din brower understøtter ikke dette video tag, venlist skift browser.
 <br>
 <br>
 
-<h3> Bilag 16 </h3>
+<h3> Bilag 17 </h3>
+
+<em> Asset-brick </em>system
+
+<img src="asset-brick-system.png">
+
+<br>
+<br>
+
+<h3> Bilag 18 </h3>
 
 Produktionsplan
 
@@ -390,25 +409,14 @@ Timeline og milestones fra vores produktion
 <br>
 <br>
 
-
-
-<h3> Bilag 17 </h3>
-
-<em> Asset-brick </em>system
-
-<img src="asset-brick-system.png">
-
-<br>
-<br>
-
-<h3> Bilag 18 </h3>
+<h3> Bilag 19 </h3>
 
 Hvem gør hvad, RACI system (Responsible, Accountable, Consulted & Informed)
 
 <embed src="whodoeswhat.pdf" width="800px" height="1180px" />
 
 
-<h3> Bilag 19 </h3>
+<h3> Bilag 20 </h3>
 
 Trello eksempel.
 Kig på url-koden, de første tre tal er nummeret (tæller op fra 001) og derefter er beskrivelsen.
@@ -422,7 +430,7 @@ Kig på url-koden, de første tre tal er nummeret (tæller op fra 001) og dereft
 <br>
 <br>
 
-<h3> Bilag 20 </h3>
+<h3> Bilag 21 </h3>
 
 Vores <em> ImpactDetector</em> og <em>VelocityDetector</em>
 
@@ -435,7 +443,7 @@ Vores <em> ImpactDetector</em> og <em>VelocityDetector</em>
 <br>
 <br>
 
-<h3> Bilag 21 </h3>
+<h3> Bilag 22 </h3>
 
 Vores audio specifikke sripts.
 
@@ -444,7 +452,7 @@ Vores audio specifikke sripts.
 <br>
 <br>
 
-<h3> Bilag 22 </h3>
+<h3> Bilag 23 </h3>
 
 Auido specifikke prefabs.
 
@@ -453,7 +461,7 @@ Auido specifikke prefabs.
 <br>
 <br>
 
-<h3> Bilag 23 </h3> 
+<h3> Bilag 24 </h3> 
 
 Et eksempel på vores <em>AudioHandlerPrefab</em>
 
@@ -462,13 +470,38 @@ Et eksempel på vores <em>AudioHandlerPrefab</em>
 <br>
 <br>
 
-<h3> Bilag 24 </h3>
+<h3> Bilag 25 </h3>
 
 Vores audio rulebook
 
 <embed src="audio-rulebook.pdf" width="800px" height="3180px" />
 
+<br>
+<br>
 
+<h3> Bilag 26 </h3>
+
+Foley fra soundlab på AAU
+
+<img src="foley.JPG">
+
+<br>
+<br>
+
+<h3> Bilag 27 </h3>
+
+<img src="pre-production-art-style.png">
+
+<br>
+<br>
+
+<h3> Bilag 28 </h3>
+
+Den lille gennemgående melodi i C-mol.
+
+<audio controls>
+<source src ="original-melody.mp3" type="audio/mpeg">
+</audio>
 
 
 <br>
