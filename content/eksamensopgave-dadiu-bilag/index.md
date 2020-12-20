@@ -10,6 +10,16 @@ Disse bilag er kun til supplement til <em>Eksamensopgaven DADIU</em>, del derfor
 
 <h3> Bilag 1 </h3>
 
+<center>
+
+<img src="minigameI-setting-1.png" width="70%" style="margin:20px">
+
+<img src="minigameI-setting-2.png" width="70%" style="margin:20px">
+
+</center>
+
+<h3> Bilag 2 </h3>
+
 Dette er en kort gennemspilning af muCALYtion 1.0, vores færdige produkt efter MiniGame I.
 
 <video width="680" height="500" controls>
@@ -21,7 +31,7 @@ Din brower understøtter ikke dette video tag, venlist skift browser.
 <br>
 <br>
 
-<h3> Bilag 2 </h3> 
+<h3> Bilag 3 </h3> 
 
 <center>
 
@@ -35,15 +45,6 @@ Din brower understøtter ikke dette video tag, venlist skift browser.
 
 <br>
 
-<h3> Bilag 3 </h3>
-
-<center>
-
-<img src="minigameI-setting-1.png" width="70%" style="margin:20px">
-
-<img src="minigameI-setting-2.png" width="70%" style="margin:20px">
-
-</center>
 
 <h3> Bilag 4 </h3>
 
