@@ -1,6 +1,9 @@
 ---
 hideMeta: true
-title: 
+title: Music
+date: 2022-01-30
+description: "Examples of music I have either composed, mixed or mastered."
+image: "mh.png"
 ---
 
 <a style="text-decoration:none;font-family:courier new;font-size:14px;text-decoration:none;"> 
@@ -9,6 +12,15 @@ title:
 
 I have always been making music, either on my own or with bands.
 I have also worked for other bands and atrists with recording, mixing or mastering.
+
+<br>
+ 
+<p align="center">
+{{< youtube UBV80wPXyL8 >}}
+	<h4>Frederik Bjørn - Manganas Have <em>[2020]</h4>
+
+A solo single.</em>
+</p>
 
 <br>
  
@@ -102,7 +114,10 @@ My first solo EP. Role; composer, instrumentalist and mixer of the EP.<em>
 <br>
 <br>
 
-<em>frederikbjorn.com - 2020</em>
+<a style="text-decoration:none;font-family:courier new;font-size:14px;text-decoration:none;"> 
+
+
+<em>frederikbjorn.com - 2022</em>
 
 <br>
 

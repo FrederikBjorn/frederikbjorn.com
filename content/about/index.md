@@ -1,6 +1,12 @@
 ---
 hideMeta: true
-title: 
+title: Information
+date: 2022-01-30
+description: "About me, education, work ect."
+image: "fb.png"
+
+
+
 ---
 <a style="text-decoration:none;font-family:courier new;font-size:14px;text-decoration:none;">
 
@@ -10,7 +16,7 @@ title:
 
 
 Hello. My name is Frederik Bjørn. I am a sound designer, composer and drummer with an
-interest for game development and creating, mixing and recording music.
+interest for podcast and radio, non-linear audio and the development of audio software.
 
 
 <h3><em> Contact </em></h3>
@@ -22,15 +28,15 @@ Carrier pigeon: yes
 
 <h3><em> Education </em></h3>
 
+Sonic and media communication (Sound Design) at Sonic College in Haderslev
+<br>
+<em>From 2018 to 2022</em>
+<br>
+<br>
 Sound designer at the National Academy of Digital Interactive Entertainemt
 (DADIU, a part of The National Film School of Denmark), at AAU in Aalborg.
 <br>
 <em> Autumn 2020</em>
-<br>
-<br>
-Sono- og mediekommunikation at Sonic College in Haderslev
-<br>
-<em>From 2018 to 2021</em>
 <br>
 <br>
 Testrup Højskole, a folk-high-school where i studied musical composition.
@@ -42,6 +48,17 @@ Christianshavns Gymnasium with majors in Music, Engish and Media Studies.
 <br>
 <em>From 2011 to 2014</em>
 <br>
+<br>
+
+<h3><em> Work </em></h3>
+
+Munck Studios Copenhagen
+<br>
+<em>Working as a podcast producer, sound designer, podcast mixer and different audio technical related fields. </em>
+<br>
+From February 2021
+<br>
+
 
 
 <h3><em> Programs I use for productions </em></h3>
@@ -70,10 +87,22 @@ Christianshavns Gymnasium with majors in Music, Engish and Media Studies.
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+
+<br>
 <!-- skriv navnende under logoerne-->
 
+<a style="text-decoration:none;font-family:courier new;font-size:14px;text-decoration:none;"> 
 
-<em>frederikbjorn.com - 2020</em>
+
+<em>frederikbjorn.com - 2022</em>
 
 
 </a>
