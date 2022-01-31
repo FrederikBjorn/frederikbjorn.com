@@ -1,8 +1,7 @@
 ---
 hideMeta: true
 title: Contact
-date: 2022-01-28
-image: 
+date: 2022-01-20
 ---
 
 <a style="text-decoration:none;font-family:courier new;font-size:14px;text-decoration:none;"> 

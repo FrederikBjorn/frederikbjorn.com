@@ -3,7 +3,7 @@ languageCode: en-us
 title: Frederik Bjorn
 theme: origin-hugo-theme-master
 copyright: "2022, Frederik Bjørn"
-paginate: 10
+paginate: 4
 
 
 
@@ -42,13 +42,4 @@ params:
     Content: 
 
 
-  socialIcons:
-    - name: soundcloud
-      url: https://soundcloud.com/frederikbjoern
-    - name: github
-      url: https://github.com/FrederikBjorn
-    - name: linkedin
-      url: https://www.linkedin.com/in/frederik-bj%C3%B8rn-6339b5170
-    - name: bandcamp
-      url: https://frederikbjorn.bandcamp.com/
 
