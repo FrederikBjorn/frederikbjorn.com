@@ -8,7 +8,7 @@ date: 2022-01-20
 
 <br>
 
-For enquiries please use following information.
+For enquiries please use the following information.
 
 
 Email - fbjoern18(at)gmail.com
