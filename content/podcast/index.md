@@ -51,16 +51,17 @@ A podcast about art produced for P1 at Danmarks Radio.
 
 
 <em><h6>https://www.dr.dk/lyd/p1/uden-titel</h6></em>
-</a>
 
 <img src="uden titel.jpg" align="center" width="80%"> 
 </center>
 
-</a>
+
 ____________________________________________________________________________________
 
+<a style="text-decoration:none;font-family:courier new;font-size:14px;text-decoration:none;"> 
 
-<h3>Det vi går rundt med : Casper Eric </h3>
+
+<h3> Det vi går rundt med : Casper Eric </h3>
 
 A podcast produced for P1 at Danmarks Radio.
 
