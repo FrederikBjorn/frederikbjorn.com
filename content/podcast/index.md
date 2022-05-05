@@ -3,7 +3,7 @@ hideMeta: true
 title: Podcast
 date: 2022-01-28
 description: "Need help producing a podcast?"
-image: "dvgrm.png"
+image: "uden titel.jpg"
 ---
 
 <a style="text-decoration:none;font-family:courier new;font-size:14px;text-decoration:none;"> 
@@ -59,6 +59,24 @@ A podcast about art produced for P1 at Danmarks Radio.
 ____________________________________________________________________________________
 
 <a style="text-decoration:none;font-family:courier new;font-size:14px;text-decoration:none;"> 
+
+<h3>DRC Integration</h3>
+
+A podcast i produced for DRC/Dansk Flygtningehjælp about there integration of the neurosequential models of therapeutics.
+
+Link for more infromation (in danish):
+<em><h6>https://www.drc.ngo/da/vores-arbejde/ydelser-og-losninger/integration-i-danmark/aktuelt/podcast-april-2022/</em></h6>
+
+<br>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1252880398&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/danishrefugeecouncil" title="DRC" target="_blank" style="color: #cccccc; text-decoration: none;">DRC</a> · <a href="https://soundcloud.com/danishrefugeecouncil/podcast-fra-drc-integration" title="Podcast fra DRC Integration" target="_blank" style="color: #cccccc; text-decoration: none;">Podcast fra DRC Integration</a></div>
+
+<br>
+____________________________________________________________________________________
+
+<a style="text-decoration:none;font-family:courier new;font-size:14px;text-decoration:none;"> 
+
+
 
 
 <h3> Det vi går rundt med : Casper Eric </h3>
