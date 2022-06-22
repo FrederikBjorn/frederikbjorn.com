@@ -3,7 +3,7 @@ hideMeta: true
 title: Music
 date: 2022-01-30
 description: "Examples of music I have either composed, mixed or mastered."
-image: "mh.png"
+image: "fb.png"
 ---
 
 <a style="text-decoration:none;font-family:courier new;font-size:14px;text-decoration:none;"> 
