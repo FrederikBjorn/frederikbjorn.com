@@ -13,6 +13,7 @@ image: "uden titel.jpg"
 
 <strong><h4>Need help producing a podcast?</strong></h4>
 
+<img src="fb.png" width="40%" align="right"> 
 
 After one year in the industry and a bachelor in sound design, I have aquired expertise in;
 
@@ -29,7 +30,6 @@ If you need help with production of a podcast, please contact me at fbjoern18(at
 <br>
 <br>I can work in both danish and english.
 
-<br>
 
 <a style="text-decoration:none;font-family:courier new;font-size:14px;text-decoration:none;"> 
 
@@ -39,7 +39,6 @@ ________________________________________________________________________________
 
 Here are some exmaples of my work, most are related to my work at Munck Studios Copenhagen or as a part of my education at Sonic College. 
 Since all of my work is based in Denmark, all of these examples are in danish.
-
 
 ____________________________________________________________________________________
 
