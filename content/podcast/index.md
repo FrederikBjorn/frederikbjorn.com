@@ -54,6 +54,70 @@ A podcast about art produced for P1 at Danmarks Radio.
 
 <img src="uden titel.jpg" align="center" width="80%"> 
 </center>
+____________________________________________________________________________________
+
+<a style="text-decoration:none;font-family:courier new;font-size:14px;text-decoration:none;"> 
+
+
+<h3> Different work for the danish architecure center </h3>
+
+In my work at Munck Studios, I was to deal with the podcast output of the danish architecure center.
+This included three different podcasts;
+<br><br>
+<strong>MorgenDAC</strong>, a podcast based around a morning seminar of two people and a moderator, about themes like; tourism in Copenhagen, how to make a city green, how to build a city which is biking friendly, and many many more!
+My work consisted of helping with the speak, editing and mixing the podcast.
+<br><em>The podcast is in danish</em>
+
+<center>
+
+https://podcasts.apple.com/dk/podcast/morgendac-live/id1492082141?l=da
+
+<img src="morgendac.png" align="center"> 
+
+<br>
+<br>
+<br>
+<br>
+
+</center>
+
+<a style="text-decoration:none;font-family:courier new;font-size:14px;text-decoration:none;"> 
+
+<strong>Let's talk architecture</strong>, a podcast about different locations and ideas, usually with one or two guests. 
+My work consisted of editing and mixing the podcast.
+<br><em>The podcast is in english</em>
+
+<center>
+
+https://podcasts.apple.com/dk/podcast/lets-talk-architecture/id1492098620
+
+<img src="lta.png" align="center"> 
+
+<br>
+<br>
+<br>
+<br>
+
+</center>
+
+<a style="text-decoration:none;font-family:courier new;font-size:14px;text-decoration:none;"> 
+
+<strong>Strategisk byledelse</strong>, a podcast for people who work with the development of cities.
+
+My work consisted of editing, feedback to the interviewers and mixing the podcast.
+<br><em>The podcast is in danish</em>
+
+<center>
+
+https://podcasts.apple.com/dk/podcast/strategisk-byledelse/id1531451763
+
+<img src="sb.png" align="center"> 
+
+<br>
+
+
+</center>
+
 
 
 ____________________________________________________________________________________
