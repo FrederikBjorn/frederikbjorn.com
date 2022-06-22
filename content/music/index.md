@@ -16,8 +16,24 @@ I have also worked for other bands and atrists with recording, mixing or masteri
 <br>
  
 <p align="center">
+
+{{< youtube Z2yk6yLyqyM >}}
+
+<h4>Cyano - JOKKMOKK KRONOÖVERLOPPSMARK - LIVE SESSION @ Spillestedet Stengade <em>[2022]</h4>
+
+A live session with my prog trio. I mixed the audio and edited the film, as well as played the drums</em>
+
+</p>
+
+<br>
+
+
+<br>
+
+
+<p align="center">
 {{< youtube UBV80wPXyL8 >}}
-	<h4>Frederik Bjørn - Manganas Have <em>[2020]</h4>
+	<h4>Frederik Bjørn - Manganas Have <em>[2021]</h4>
 
 A solo single.</em>
 </p>
