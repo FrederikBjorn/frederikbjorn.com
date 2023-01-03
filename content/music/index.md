@@ -3,7 +3,7 @@ hideMeta: true
 title: Music
 date: 2022-01-30
 description: "Examples of music I have either composed, mixed or mastered."
-image: "mh.png"
+image: "o_1.jpg"
 ---
 
 <a style="text-decoration:none;font-family:courier new;font-size:14px;text-decoration:none;"> 
@@ -12,6 +12,20 @@ image: "mh.png"
 
 I have always been making music, either on my own or with bands.
 I have also worked for other bands and atrists with recording, mixing or mastering.
+
+<br>
+
+<p align="center">
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/3jndYi5bnK1v9h1szMcpFY?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<br>
+
+<h4> Frederik Bjørn - Objekter_1 <em>[2023]</h4>
+
+First album in an ongoing series of ambient and abstract sonic work.
+
+</em>
 
 <br>
  
@@ -133,7 +147,7 @@ My first solo EP. Role; composer, instrumentalist and mixer of the EP.<em>
 <a style="text-decoration:none;font-family:courier new;font-size:14px;text-decoration:none;"> 
 
 
-<em>frederikbjorn.com - 2022</em>
+<em>frederikbjorn.com - 2023</em>
 
 <br>
 
