@@ -35,7 +35,7 @@ First album in an ongoing series of ambient and abstract sonic work.
 
 <h4>Cyano - JOKKMOKK KRONOÖVERLOPPSMARK - LIVE SESSION @ Spillestedet Stengade <em>[2022]</h4>
 
-A live session with my prog trio. I mixed the audio and edited the film, as well as played the drums</em>
+A live session with my prog trio. I mixed the audio and edited the film, as well as played the drums.</em>
 
 </p>
 
